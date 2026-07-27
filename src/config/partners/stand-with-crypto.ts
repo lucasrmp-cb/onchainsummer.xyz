@@ -17,7 +17,7 @@ const standWithCrypto: Partner = {
   drops: [
     {
       image: '/partners/stand-with-crypto/drops/standWithCrypto1.mp4',
-      creator: '0xc2A6116e9a1f9aDD1Bb87EEF308f216Bb0304c38',
+      creator: '0x1C0d9F3547419C7de9BE8c44Af941Dbf695bfd24',
       name: 'Stand with Crypto Supporter',
       type: 'erc-721',
       startDate: Date.UTC(2023, 7, 14, CAMPAIGN_HOUR, CAMPAIGN_MINUTE, 0, 0),
@@ -37,7 +37,7 @@ Priced at 0.00435 ETH, this represents the 435 congressional districts in the U.
     },
     {
       image: '/partners/stand-with-crypto/drops/standWithCrypto2.jpg',
-      creator: '0xc2A6116e9a1f9aDD1Bb87EEF308f216Bb0304c38',
+      creator: '0x1C0d9F3547419C7de9BE8c44Af941Dbf695bfd24',
       name: 'Join Stand With Crypto',
       type: 'erc-721',
       startDate: Date.UTC(2023, 7, 14, CAMPAIGN_HOUR, CAMPAIGN_MINUTE, 0, 0),
@@ -53,7 +53,7 @@ Priced at 0.00435 ETH, this represents the 435 congressional districts in the U.
     },
     {
       image: '/partners/stand-with-crypto/drops/standWithCrypto6.jpg',
-      creator: '0xc2A6116e9a1f9aDD1Bb87EEF308f216Bb0304c38',
+      creator: '0x1C0d9F3547419C7de9BE8c44Af941Dbf695bfd24',
       name: 'Call your representative',
       type: 'erc-721',
       startDate: Date.UTC(2023, 7, 14, CAMPAIGN_HOUR, CAMPAIGN_MINUTE, 0, 0),
@@ -68,7 +68,7 @@ Priced at 0.00435 ETH, this represents the 435 congressional districts in the U.
     },
     {
       image: '/partners/stand-with-crypto/drops/standWithCrypto7.jpg',
-      creator: '0xc2A6116e9a1f9aDD1Bb87EEF308f216Bb0304c38',
+      creator: '0x1C0d9F3547419C7de9BE8c44Af941Dbf695bfd24',
       name: 'Submit a video and win a prize',
       type: 'erc-721',
       startDate: Date.UTC(2023, 7, 14, CAMPAIGN_HOUR, CAMPAIGN_MINUTE, 0, 0),
@@ -82,7 +82,7 @@ Priced at 0.00435 ETH, this represents the 435 congressional districts in the U.
     },
     {
       image: '/partners/stand-with-crypto/drops/standWithCrypto4.jpg',
-      creator: '0xc2A6116e9a1f9aDD1Bb87EEF308f216Bb0304c38',
+      creator: '0x1C0d9F3547419C7de9BE8c44Af941Dbf695bfd24',
       name: 'Share your support',
       type: 'erc-721',
       startDate: Date.UTC(2023, 7, 14, CAMPAIGN_HOUR, CAMPAIGN_MINUTE, 0, 0),
